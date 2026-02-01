@@ -2,19 +2,7 @@
 
 > A collection of projects I've built while learning Java from the ground up.
 
----
 
-## 📋 Table of Contents
-- [About](#about)
-- [Projects](#projects)
-  - [Calculator](#calculator)
-  - [Random Number Game](#random-number-game)
-  - [ATM System](#atm-system)
-  - [Todo App](#todo-app)
-- [Technologies](#technologies)
-- [What's Next](#whats-next)
-
----
 
 ## About
 
